@@ -28,8 +28,9 @@
              </p>
 
  Additionaly, *gdp per capta* and *healthy life expectancy at birth* are also assed.
- 
 
+## Exploratory analysis
+![Month](https://github.com/ju-br/Ironhack-Project/blob/main/figures/EDA/month.png)
 
 
 
