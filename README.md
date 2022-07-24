@@ -5,9 +5,12 @@
 
 **The World Happiness Report (WHR) claims that:**<p>
 <div align="center"> The true measure of progress is the happiness of the people; that happiness can be measured; and that we know a lot about what causes it. Given this knowledge, it is now possible for policy-makers to make people’s happiness the goal of their policies. And each of us can live a wiser life.</div>
+<p align="center">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+</p>
+
 
 5 latent (psychological variables) are assessed:
-
 1. Happiness:
            <p> “Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”
            </p> 
@@ -31,7 +34,12 @@
 
 ## Exploratory analysis
 ### Distribution of WHP variables per continent
-![distribution] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/Life ladder.png)
+![distribution] (https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Life%20ladder.png?raw=true)
+
+![distribution] (https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Freedom%20to%20make%20choices.png)
+
+![distribution] (https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Freedom%20to%20make%20choices.png)
+
 
 ### Correlations between WHP variables
 The variables of the WHR are either strongly correlated (*log gdp per capta*,*social support*,*life expectancy*) or moderated correlated (*freedom to make choices*, *negative affect*, *positive affect*, and *corruption*). Generosity is weakly correlated and is the only one in the reverse direction than expected.
