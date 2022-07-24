@@ -63,7 +63,7 @@ in the fields of psychology and economics. The World Happiness Report is publish
 ![socialsupport](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/social%20support.png?raw=true)
 
 
-### Correlations between WHP variables
+### Correlations between WHR variables
 The variables of the WHR are either strongly correlated (*log gdp per capta*,*social support*,*life expectancy*) or moderated correlated (*freedom to make choices*, *negative affect*, *positive affect*, and *corruption*). Generosity is weakly correlated and is the only one in the reverse direction than expected.
 <p> </p>
     
