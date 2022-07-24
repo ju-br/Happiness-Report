@@ -51,11 +51,16 @@ in the fields of psychology and economics. The World Happiness Report is publish
 
 ## Exploratory analysis
 ### Distribution of WHP variables per continent
-![distribution] (https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Life%20ladder.png?raw=true)
-
-![distribution] (https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Freedom%20to%20make%20choices.png)
-
-![distribution] (https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Freedom%20to%20make%20choices.png)
+#### Life ladder
+![ladder](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Life%20ladder.png?raw=true)
+#### Freedom to make choices
+![freedom](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Freedom%20to%20make%20choices.png?raw=true)
+#### Corruption
+![distribution](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/corruption.png?raw=true)
+#### Generosity
+![generosity](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/generosity.png?raw=true)
+#### Generosity
+![socialsupport](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/social%20support.png?raw=true)
 
 
 ### Correlations between WHP variables
