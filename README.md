@@ -154,7 +154,7 @@ Life ladder - depression :white_check_mark:
 
 *It might be the case the latent variables within WHR are highly correlated due to self report bias*
 
-<p>Curiosity: Life ladder - temperature  (omitted variable?)❌
+<p>Curiosity: Life ladder - temperature  (omitted variable?)
 </p>
 
 ![ladder-temperature](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20temperature.png?raw=true)
