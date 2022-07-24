@@ -1,6 +1,6 @@
 # Are you happy? 
 <p align="center">
-    <iframe src="https://media3.giphy.com/media/11sBLVxNs7v6WA/giphy.gif?cid=ecf05e47i2tl6ufx1mmjmlgmja86ftu912g1wugon0oivza5&rid=giphy.gif&ct=g" width="150" height="150"></a></p>
+<img src="https://media3.giphy.com/media/11sBLVxNs7v6WA/giphy.gif?cid=ecf05e47i2tl6ufx1mmjmlgmja86ftu912g1wugon0oivza5&rid=giphy.gif&ct=g" width="700" height="400" />
 </p>
 
 In recent years, interest in happiness has been growing across numerous disciplines, particularly
@@ -67,7 +67,7 @@ in the fields of psychology and economics. The World Happiness Report is publish
 The variables of the WHR are either strongly correlated (*log gdp per capta*,*social support*,*life expectancy*) or moderated correlated (*freedom to make choices*, *negative affect*, *positive affect*, and *corruption*). Generosity is weakly correlated and is the only one in the reverse direction than expected.
 <p> </p>
     
-![corrhappiness]([https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/social%20support.png?raw=tru](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/correlation%20heatmap%20happiness.png?raw=true)e)
+![corrhappiness]([https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/social%20support.png?raw=tru](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/correlation%20heatmap%20happiness.png?raw=true)
  
 </p>
 
