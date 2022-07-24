@@ -150,7 +150,7 @@ Life ladder - depression :white_check_mark:
 <p>Life ladder - suicide  ❌
 </p>
 
-![ladder-suicide](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20temperature.png?raw=true)
+![ladder-suicide](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Life%20ladder%20-%20suicide.png?raw=true)
 
 *It might be the case the latent variables within WHR are highly correlated due to self report bias*
 
