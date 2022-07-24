@@ -59,19 +59,22 @@ in the fields of psychology and economics. The World Happiness Report is publish
 ![distribution](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/corruption.png?raw=true)
 #### Generosity
 ![generosity](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/generosity.png?raw=true)
-#### Generosity
+#### Social Support
 ![socialsupport](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/social%20support.png?raw=true)
 
 
 ### Correlations between WHP variables
 The variables of the WHR are either strongly correlated (*log gdp per capta*,*social support*,*life expectancy*) or moderated correlated (*freedom to make choices*, *negative affect*, *positive affect*, and *corruption*). Generosity is weakly correlated and is the only one in the reverse direction than expected.
-<p> 
-
-![correlation WHP] (https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/correlation%20heatmap%20happiness.png)
+<p> </p>
+    
+![corrhappiness]([https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/social%20support.png?raw=tru](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/correlation%20heatmap%20happiness.png?raw=true)e)
+ 
 </p>
 
 ### Correlations between happiness and data from other sources
-![correlation] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/correlation heatmap happiness.png)
+</p>
+
+![correlation](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/correlation%20heatmap%20other%20var.png?raw=true)
 
 However, when we are measuring latent variables (as they cannot be observed) we have to be sure that we are measuring what we want to assess.
 <div align="center">
@@ -115,37 +118,37 @@ Criterion validity indicates how well the scores or responses of a test converge
 <p>
 
 Life ladder - inequality :white_check_mark:
+</p>
 
-
-![ladder-inequality] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/correlation heatmap happiness.png)
+![ladder-inequality](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20inequality.png?raw=true)
 
 <p>
 
 Life ladder - depression :white_check_mark:
-
-![ladder-depression] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/correlation heatmap happiness.png)
+</p>
+![ladder-depression](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20depression.png?raw=true)
 
 <p>Life ladder - alcohol use ❌
-
-![ladder-alcohol] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/correlation heatmap happiness.png)
+</p>
+![ladder-alcohol](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20alcohol.png?raw=true)
 
 <p>Life ladder - drug use ❌
-
-![ladder-drug] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/correlation heatmap happiness.png)
+</p>
+![ladder-drug](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/lide%20ladder%20-%20drug%20use.png?raw=true)
 
 <p>Life ladder - anxiety  ❌
-
-![ladder-anxiety] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/correlation heatmap happiness.png)
+</p>
+![ladder-anxiety](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20anxiety.png?raw=true)
 
 <p>Life ladder - suicide  ❌
-
-![ladder-suicide] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/correlation heatmap happiness.png)
+</p>
+![ladder-suicide](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20temperature.png?raw=true)
 
 *It might be the case the latent variables within WHR are highly correlated due to self report bias*
 
 <p>Curiosity: Life ladder - temperature  (omitted variable?)❌
-
-![ladder-temperature] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/correlation heatmap happiness.png)
+</p>
+![ladder-temperature](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20temperature.png?raw=true)
 
 </p>
 
