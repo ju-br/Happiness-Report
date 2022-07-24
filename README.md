@@ -91,7 +91,8 @@ There are some criteria that should be met to assess latent variables():<p>
       <p>Corruption ❌
        <p>Freedom of choice ❌
       <p>Generosity ❌
-</p>        
+</p>    
+
 **WHP:** latent variables measured with a single item
 
 *With one item you cannot check reliability statistics*
