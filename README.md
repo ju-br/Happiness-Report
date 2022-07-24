@@ -12,7 +12,7 @@ in the fields of psychology and economics. The World Happiness Report is publish
 <img src="https://github.com/ju-br/World-Happiness-Project2/blob/main/GIF/corruption_1.gif?raw=true" width="400" height="200" />
 </p>
 
-## How life ladder changed considering freedom of choice?
+### How life ladder changed considering freedom of choice?
 
 <p align="center">
 <img src="https://github.com/ju-br/World-Happiness-Project2/blob/main/GIF/freedom_1.gif?raw=true" width="400" height="200" />
