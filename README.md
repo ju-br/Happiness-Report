@@ -126,28 +126,34 @@ Life ladder - inequality :white_check_mark:
 
 Life ladder - depression :white_check_mark:
 </p>
+
 ![ladder-depression](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20depression.png?raw=true)
 
 <p>Life ladder - alcohol use ❌
 </p>
+
 ![ladder-alcohol](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20alcohol.png?raw=true)
 
 <p>Life ladder - drug use ❌
 </p>
+
 ![ladder-drug](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/lide%20ladder%20-%20drug%20use.png?raw=true)
 
 <p>Life ladder - anxiety  ❌
 </p>
+
 ![ladder-anxiety](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20anxiety.png?raw=true)
 
 <p>Life ladder - suicide  ❌
 </p>
+
 ![ladder-suicide](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20temperature.png?raw=true)
 
 *It might be the case the latent variables within WHR are highly correlated due to self report bias*
 
 <p>Curiosity: Life ladder - temperature  (omitted variable?)❌
 </p>
+
 ![ladder-temperature](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20temperature.png?raw=true)
 
 </p>
