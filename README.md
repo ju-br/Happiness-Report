@@ -91,7 +91,8 @@ There are some criteria that should be met to assess latent variables():<p>
       <p>Corruption ❌
        <p>Freedom of choice ❌
       <p>Generosity ❌
-  **WHP:** latent variables measured with a single item
+</p>        
+**WHP:** latent variables measured with a single item
 
 *With one item you cannot check reliability statistics*
 </p>
@@ -103,6 +104,7 @@ There are some criteria that should be met to assess latent variables():<p>
 <p>ADI - agreement within countries ❌
 <p>Alternative: multilevel measure ❌
 </p>
+
  **WHP:** average national response of the overall perception at the individual level
 
 **3. Content validity:** 
