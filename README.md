@@ -3,13 +3,30 @@
     <iframe src="https://giphy.com/embed/chzz1FQgqhytWRWbp3" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/minions-minions-2-rise-of-gru-chzz1FQgqhytWRWbp3"></a></p>
 </p>
 
-**The World Happiness Report (WHR) claims that:**<p>
-<div align="center"> The true measure of progress is the happiness of the people; that happiness can be measured; and that we know a lot about what causes it. Given this knowledge, it is now possible for policy-makers to make people’s happiness the goal of their policies. And each of us can live a wiser life.</div>
+In recent years, interest in happiness has been growing across numerous disciplines, particularly
+in the fields of psychology and economics. The World Happiness Report is published every year to guide public policies and individual decision making. Here are some insights from it:
+
+### How life ladder changed considering corruption?
+
 <p align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/GIF/corruption.gif" width="400" height="200" />
 </p>
 
+## How life ladder changed considering freedom of choice?
 
+<p align="center">
+<img src="/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/GIF/freedom.gif" width="400" height="200" />
+</p>
+
+<div align="center">
+
+  ## **The WHR claims that:**
+<p>
+ The true measure of progress is the happiness of the people; that happiness can be measured; and that we know a lot about what causes it. Given this knowledge, it is now possible for policy-makers to make people’s happiness the goal of their policies. And each of us can live a wiser life.</div>
+
+
+
+## What does the WFH measures?
 5 latent (psychological variables) are assessed:
 1. Happiness:
            <p> “Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”
@@ -51,14 +68,14 @@ The variables of the WHR are either strongly correlated (*log gdp per capta*,*so
 ### Correlations between happiness and data from other sources
 ![correlation] (/Users/Juliana/Desktop/Ironhack/Projects/World-Happiness-Project2/figures/correlation heatmap happiness.png)
 
-However, when we are measuring latent variables we have to be sure that we are measuring what we want to assess.
+However, when we are measuring latent variables (as they cannot be observed) we have to be sure that we are measuring what we want to assess.
 <div align="center">
 
 ## Can we trust this data?
 </div>
 
 ### How to measure latent variables?
-As latent variables cannot be observed, there are some criteria that should be met:<p>
+There are some criteria that should be met to assess latent variables():<p>
 
   **1. Multiple items to operationalize:**</p>
        <p>Life ladder ❌
@@ -137,8 +154,7 @@ Moreover, to attest that all countries have the same perception and, therefore, 
 measurement invariance should be evaluated.
 
    ### Is this evidence strong enough to base public policies?
-In recent years, interest in happiness has been growing across numerous disciplines, particularly
-in the fields of psychology and economics. It has also become an increasingly significant object
+ Interess in happiness has also become an increasingly significant object
 of public policy both domestically and internationally with governments around the world considering
 measures of happiness, or ‘subjective well-being,’ as progress indicators and tools for appraising
 policy. Yet, the findings from happiness surveys are nonetheless often taken to be data
