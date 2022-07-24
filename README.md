@@ -1,6 +1,6 @@
 # Are you happy? 
 <p align="center">
-<img src="https://media3.giphy.com/media/11sBLVxNs7v6WA/giphy.gif?cid=ecf05e47i2tl6ufx1mmjmlgmja86ftu912g1wugon0oivza5&rid=giphy.gif&ct=g" width="700" height="400" />
+<img src="https://media3.giphy.com/media/11sBLVxNs7v6WA/giphy.gif?cid=ecf05e47i2tl6ufx1mmjmlgmja86ftu912g1wugon0oivza5&rid=giphy.gif&ct=g" width="400" height="250" />
 </p>
 
 In recent years, interest in happiness has been growing across numerous disciplines, particularly
