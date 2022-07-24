@@ -26,7 +26,7 @@ in the fields of psychology and economics. The World Happiness Report is publish
 
 
 
-## What does the WHR measures?
+## What does the WHR measure?
 5 latent (psychological variables) are assessed:
 1. Happiness:
            <p> “Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”
