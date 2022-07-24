@@ -1,6 +1,6 @@
 # Are you happy? 
 <p align="center">
-    <iframe src="https://giphy.com/embed/chzz1FQgqhytWRWbp3" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/minions-minions-2-rise-of-gru-chzz1FQgqhytWRWbp3"></a></p>
+    <iframe src="https://media3.giphy.com/media/11sBLVxNs7v6WA/giphy.gif?cid=ecf05e47i2tl6ufx1mmjmlgmja86ftu912g1wugon0oivza5&rid=giphy.gif&ct=g" width="150" height="150"></a></p>
 </p>
 
 In recent years, interest in happiness has been growing across numerous disciplines, particularly
@@ -9,13 +9,13 @@ in the fields of psychology and economics. The World Happiness Report is publish
 ### How life ladder changed considering corruption?
 
 <p align="center">
-<img src="https://github.com/ju-br/World-Happiness-Project2/blob/main/GIF/corruption_1.gif?raw=true" width="400" height="200" />
+<img src="https://github.com/ju-br/World-Happiness-Project2/blob/main/GIF/corruption_1.gif?raw=true" width="700" height="400" />
 </p>
 
 ### How life ladder changed considering freedom of choice?
 
 <p align="center">
-<img src="https://github.com/ju-br/World-Happiness-Project2/blob/main/GIF/freedom_1.gif?raw=true" width="400" height="200" />
+<img src="https://github.com/ju-br/World-Happiness-Project2/blob/main/GIF/freedom_1.gif?raw=true" width="700" height="400" />
 </p>
 
 <div align="center">
