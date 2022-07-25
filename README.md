@@ -122,7 +122,7 @@ Criterion validity indicates how well the scores or responses of a test converge
 <p>
 
 Life ladder - inequality :white_check_mark:
-R2= 0.56
+Rx<sup>2</sup>= 0.56
 
 </p>
 
