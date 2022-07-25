@@ -71,7 +71,8 @@ The variables of the WHR are either strongly correlated (*log gdp per capta*, *s
  
 </p>
 
-### Correlations between happiness and data from other sources
+### Correlations between happiness and data from other sources (web scrapping-suicide rate, inequality and temperature and Univeristy of Chicago csv-drug, anxiety and alcohol disorders)
+
 </p>
 
 ![correlation](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/correlation%20heatmap%20other%20var.png?raw=true)
