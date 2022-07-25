@@ -41,7 +41,7 @@ in the fields of psychology and economics. The World Happiness Report is publish
               </p> 
 4. Generosity
             <p> “Have you donated money to a charity in the past month?”
-            Generosity is the residual of regressing national average of response to the GWP question “Have you donated money to a charity in the past month?” on GDP per capita
+            Generosity is the national average of response to the question “Have you donated money to a charity in the past month?” 
               </p> 
 5. Perception of Corruption:
             <p>  “Is corruption widespread throughout the government or not” and “Is corruption widespread within businesses or not?” The overall perception is just the average of the two 0-or-1 responses.
@@ -50,7 +50,7 @@ in the fields of psychology and economics. The World Happiness Report is publish
  Additionaly, *gdp per capta* and *healthy life expectancy at birth* are also assed.
 
 ## Exploratory analysis
-### Distribution of WHP variables per continent
+### Distribution of WHR variables per continent
 #### Life ladder
 ![ladder](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/Life%20ladder.png?raw=true)
 #### Freedom to make choices
@@ -64,7 +64,7 @@ in the fields of psychology and economics. The World Happiness Report is publish
 
 
 ### Correlations between WHR variables
-The variables of the WHR are either strongly correlated (*log gdp per capta*,*social support*,*life expectancy*) or moderated correlated (*freedom to make choices*, *negative affect*, *positive affect*, and *corruption*). Generosity is weakly correlated and is the only one in the reverse direction than expected.
+The variables of the WHR are either strongly correlated (*log gdp per capta*, *social support*, *life expectancy*) or moderately correlated (*freedom to make choices*, *negative affect*, *positive affect*, and *corruption*). Generosity is weakly correlated and is the only one in the reverse direction than expected.
 <p> </p>
     
 ![corrhappiness](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/correlation%20heatmap%20happiness.png?raw=true)
@@ -83,7 +83,7 @@ However, when we are measuring latent variables (as they cannot be observed) we 
 </div>
 
 ### How to measure latent variables?
-There are some criteria that should be met to assess latent variables():<p>
+There are some criteria that should be met to assess latent variables:<p>
 
   **1. Multiple items to operationalize:**</p>
        <p>Life ladder ❌
@@ -98,7 +98,7 @@ There are some criteria that should be met to assess latent variables():<p>
 *With one item you cannot check reliability statistics*
 </p>
 
- **2. To aggregate data, in a higher level, measured with a different referent we need to check if the higher level influence (country) the smaller one(person). Aggregation statistics:**
+ **2. To aggregate data, in a higher level, measured with a different referent we need to check if the higher level influence (country) the smaller one (person). Aggregation statistics:**
  </p>
 <p>Icc 1 - Percentage of aggregated influence of country level on person ❌
 <p>ANOVA - variance between countries ❌
@@ -161,7 +161,7 @@ Life ladder - depression :white_check_mark:
 
 </p>
 
-### Can we say all the countries agree in what is happiness?
+### Can we say all countries agree in what is happiness?
 Cross-cultural explorations reveal varying, multiple and often conflicting
 beliefs within and between groups. Happiness research has been criticised 
 for producing not simply descriptive but prescriptive accounts based 
@@ -171,7 +171,7 @@ Moreover, to attest that all countries have the same perception and, therefore, 
 measurement invariance should be evaluated.
 
    ### Is this evidence strong enough to base public policies?
- Interess in happiness has also become an increasingly significant object
+ Interest in happiness has also become an increasingly significant object
 of public policy both domestically and internationally with governments around the world considering
 measures of happiness, or ‘subjective well-being,’ as progress indicators and tools for appraising
 policy. Yet, the findings from happiness surveys are nonetheless often taken to be data
