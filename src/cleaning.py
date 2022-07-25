@@ -46,9 +46,3 @@ def to_numeric(df):
         pass
     df['average yearly temperature (1961–1990 celsius)'] = df['average yearly temperature (1961–1990 celsius)'].apply(lambda x: float(x))
     
-
-stand_colum_name(dataset)
-historic_to_float(dataset)
-temperature(dataset)
-percent_to_float(dataset)
-to_numeric(dataset)
