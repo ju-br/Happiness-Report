@@ -122,7 +122,7 @@ Criterion validity indicates how well the scores or responses of a test converge
 <p>
 
 Life ladder - inequality :white_check_mark:
-Rx<sup>2</sup>= 0.56
+R<sup>2</sup>= 0.56
 
 </p>
 
@@ -131,35 +131,35 @@ Rx<sup>2</sup>= 0.56
 <p>
 
 Life ladder - depression :white_check_mark:
-R2= 0.07
+R<sup>2</sup>= 0.07
 
 </p>
 
 ![ladder-depression](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20depression.png?raw=true)
 
 <p>Life ladder - alcohol use ❌
-R2= 0.18
+R<sup>2</sup>= 0.18
 
 </p>
 
 ![ladder-alcohol](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20alcohol.png?raw=true)
 
 <p>Life ladder - drug use ❌
-R2= 0.43
+R<sup>2</sup>= 0.43
 
 </p>
 
 ![ladder-drug](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/lide%20ladder%20-%20drug%20use.png?raw=true)
 
 <p>Life ladder - anxiety  ❌
-R2= 0.28
+R<sup>2</sup>= 0.28
 
 </p>
 
 ![ladder-anxiety](https://github.com/ju-br/World-Happiness-Project2/blob/main/figures/life%20ladder%20-%20anxiety.png?raw=true)
 
 <p>Life ladder - suicide  ❌
-R2= 0.05
+R<sup>2</sup>= 0.05
 
 </p>
 
@@ -168,7 +168,7 @@ R2= 0.05
 *It might be the case the latent variables within WHR are highly correlated due to self report bias*
 
 <p>Curiosity: Life ladder - temperature  (omitted variable?)
-R2= 0.21
+R<sup>2</sup>= 0.21
 
 </p>
 
